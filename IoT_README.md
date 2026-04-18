@@ -1,4 +1,4 @@
-# 🌱 Decentralized Wireless IoT Greenhouse Ecosystem
+# Decentralized Wireless IoT Greenhouse Ecosystem
 
 **Developer:** Shraya Rajkarnikar | UNC Pembroke — IT / Data Analytics  
 **Timeline:** January 2026 – April 2026  
